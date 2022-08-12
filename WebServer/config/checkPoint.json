@@ -1,0 +1,368 @@
+{
+  "PRT0172" : {
+    "name" : "PRT0172_1090 - 电机",
+    "point" : [
+      {
+        "id" : 1,
+        "point" : "WCW103LN",
+        "name" : "WCW001MO上部轴承润滑油液位"
+      },
+      {
+        "id" : 2,
+        "point" : "WCW105LN",
+        "name" : "WCW001MO下部轴承润滑油液位"
+      },
+      {
+        "id" : 3,
+        "point" : "WCW101SH",
+        "name" : "WCW001MO冷却器泄漏探测开关"
+      },
+      {
+        "id" : 4,
+        "point" : "WCW103SH",
+        "name" : "WCW001MO冷却器泄漏探测开关"
+      },
+      {
+        "id" : 5,
+        "point" : "WCW103SD/L",
+        "name" : "WCW001MO冷却水流量就地测量及开关"
+      },
+      {
+        "id" : 6,
+        "point" : "WCW105SD/L",
+        "name" : "WCW001MO下部轴承润滑油冷却器冷却水流量就地测量及开关"
+      },
+      {
+        "id" : 7,
+        "point" : "WCW107SD/L",
+        "name" : "WCW001MO非驱动端轴承润滑油冷却器冷却水流量就地测量及开关"
+      },
+      {
+        "id" : 8,
+        "point" : "WCW101MV",
+        "name" : "WCW001MO轴承非驱动端X向振动在线监测"
+      },
+      {
+        "id" : 9,
+        "point" : "WCW103MV",
+        "name" : "WCW001MO轴承非驱动端Y向振动在线监测"
+      },
+      {
+        "id" : 10,
+        "point" : "WCW105MV",
+        "name" : "WCW001MO轴承非驱动端Z向振动在线监测"
+      },
+      {
+        "id" : 11,
+        "point" : "WCW113MT",
+        "name" : "WCW001MO U相绕阻温度"
+      },
+      {
+        "id" : 12,
+        "point" : "WCW115MT",
+        "name" : "WCW001MO U相绕阻温度"
+      },
+      {
+        "id" : 13,
+        "point" : "WCW117MT",
+        "name" : "WCW001MO U相绕阻温度"
+      },
+      {
+        "id" : 14,
+        "point" : "WCW119MT",
+        "name" : "WCW001MO V相绕阻温度"
+      },
+      {
+        "id" : 15,
+        "point" : "WCW121MT",
+        "name" : "WCW001MO V相绕阻温度"
+      },
+      {
+        "id" : 16,
+        "point" : "WCW123MT",
+        "name" : "WCW001MO V相绕阻温度"
+      },
+      {
+        "id" : 17,
+        "point" : "WCW125MT",
+        "name" : "WCW001MO W相绕阻温度"
+      },
+      {
+        "id" : 18,
+        "point" : "WCW127MT",
+        "name" : "WCW001MO W相绕阻温度"
+      },
+      {
+        "id" : 19,
+        "point" : "WCW129MT",
+        "name" : "WCW001MO W相绕阻温度"
+      },
+      {
+        "id" : 20,
+        "point" : "WCW101MT",
+        "name" : "WCW001MO上部导轴承温度"
+      },
+      {
+        "id" : 21,
+        "point" : "WCW103MT",
+        "name" : "WCW001MO上部导轴承温度"
+      },
+      {
+        "id" : 22,
+        "point" : "WCW105MT",
+        "name" : "WCW001MO上部导轴承温度"
+      },
+      {
+        "id" : 23,
+        "point" : "WCW107MT",
+        "name" : "WCW001MO下部导轴承温度"
+      },
+      {
+        "id" : 24,
+        "point" : "WCW109MT",
+        "name" : "WCW001MO下部导轴承温度"
+      },
+      {
+        "id" : 25,
+        "point" : "WCW111MT",
+        "name" : "WCW001MO下部导轴承温度"
+      },
+      {
+        "id" : 26,
+        "point" : "WCW155MT",
+        "name" : "WCW001MO推力轴承温度"
+      },
+      {
+        "id" : 27,
+        "point" : "WCW157MT",
+        "name" : "WCW001MO推力轴承温度"
+      },
+      {
+        "id" : 28,
+        "point" : "WCW159MT",
+        "name" : "WCW001MO推力轴承温度"
+      },
+      {
+        "id" : 29,
+        "point" : "WCW111LT",
+        "name" : "WCW001MO冷却器出口温度"
+      },
+      {
+        "id" : 30,
+        "point" : "WCW121LT",
+        "name" : "WCW001MO冷却器进口温度"
+      },
+      {
+        "id" : 31,
+        "point" : "WCW131LT",
+        "name" : "WCW001MO冷却器出口温度"
+      },
+      {
+        "id" : 32,
+        "point" : "WCW141LT",
+        "name" : "WCW001MO冷却器出口温度"
+      },
+      {
+        "id" : 33,
+        "point" : "WCW151LT",
+        "name" : "WCW001MO冷却器进口温度"
+      },
+      {
+        "id" : 34,
+        "point" : "WCW161LT",
+        "name" : "WCW001MO冷却器出口温度"
+      },
+      {
+        "id" : 35,
+        "point" : "WCW171LT",
+        "name" : "WCW001MO推力轴承温度"
+      },
+      {
+        "id" : 36,
+        "point" : "WCW181LT",
+        "name" : "WCW001MO下导轴承温度"
+      }
+    ]
+  },
+  "PRT0161" : {
+    "name" : "PRT0161_1036 - 电机支架",
+    "point" : []
+  },
+  "PRT0164" : {
+    "name" : "PRT0164_1028 - 齿轮箱",
+    "point" : [
+      {
+        "id" : 1,
+        "point" : "WCW107LP",
+        "name" : "WCW001PO冷却水进口压力"
+      },
+      {
+        "id" : 2,
+        "point" : "WCW107MV",
+        "name" : "WCW001PO齿轮箱轴承处X向振动在线监测"
+      },
+      {
+        "id" : 3,
+        "point" : "WCW109MV",
+        "name" : "WCW001PO齿轮箱轴承处Z向振动在线监测"
+      },
+      {
+        "id" : 4,
+        "point" : "WCW131MT",
+        "name" : "WCW001PO齿轮箱推力轴承温度"
+      },
+      {
+        "id" : 5,
+        "point" : "WCW133MT",
+        "name" : "WCW001PO齿轮箱推力轴承温度"
+      },
+      {
+        "id" : 6,
+        "point" : "WCW135MT",
+        "name" : "WCW001PO齿轮箱推力轴承温度"
+      },
+      {
+        "id" : 7,
+        "point" : "WCW143MT",
+        "name" : "WCW001PO齿轮箱上部导向轴承温度"
+      },
+      {
+        "id" : 8,
+        "point" : "WCW145MT",
+        "name" : "WCW001PO齿轮箱上部导向轴承温度"
+      },
+      {
+        "id" : 9,
+        "point" : "WCW147MT",
+        "name" : "WCW001PO齿轮箱上部导向轴承温度"
+      },
+      {
+        "id" : 10,
+        "point" : "WCW137MT",
+        "name" : "WCW001PO齿轮箱下部导向轴承温度"
+      },
+      {
+        "id" : 11,
+        "point" : "WCW139MT",
+        "name" : "WCW001PO齿轮箱下部导向轴承温度"
+      },
+      {
+        "id" : 12,
+        "point" : "WCW141MT",
+        "name" : "WCW001PO齿轮箱下部导向轴承温度"
+      },
+      {
+        "id" : 13,
+        "point" : "WCL001MP",
+        "name" : "WCL系统低压供油口远传压力显示(WCW001PO)"
+      },
+      {
+        "id" : 14,
+        "point" : "WCL005MP",
+        "name" : "WCL系统低压供油口远传压力显示(WCW001PO)"
+      },
+      {
+        "id" : 15,
+        "point" : "WCL007MP",
+        "name" : "WCL系统低压供油口远传压力显示(WCW001PO)"
+      }
+    ]
+  },
+  "PRT0026" : {
+    "name" : "PRT0026_159 - 齿轮箱支架",
+    "point" : []
+  },
+  "PRT0039" : {
+    "name" : "PRT0039_230 - 轴护罩",
+    "point" : [
+      {
+        "id" : 1,
+        "point" : "WCW101LN",
+        "name" : "WCW001PO导轴承润滑油液位"
+      },
+      {
+        "id" : 2,
+        "point" : "WCW101SN",
+        "name" : "WCW001PO导向轴承润滑油油位开关"
+      },
+      {
+        "id" : 3,
+        "point" : "WCW103SN",
+        "name" : "WCW001PO导向轴承润滑油油位开关"
+      },
+      {
+        "id" : 4,
+        "point" : "WCW109SD/L",
+        "name" : "WCW001PO下部轴承润滑油冷却器冷却水流量就地测量及开关"
+      },
+      {
+        "id" : 5,
+        "point" : "WCW149MT",
+        "name" : "WCW001PO导向轴承温度"
+      },
+      {
+        "id" : 6,
+        "point" : "WCW151MT",
+        "name" : "WCW001PO导向轴承温度"
+      },
+      {
+        "id" : 7,
+        "point" : "WCW153MT",
+        "name" : "WCW001PO导向轴承温度"
+      },
+      {
+        "id" : 8,
+        "point" : "WCW123LT",
+        "name" : "WCW001PO导向轴承温度"
+      },
+      {
+        "id" : 9,
+        "point" : "WCW125LT",
+        "name" : "WCW001PO导向轴承温度"
+      },
+      {
+        "id" : 10,
+        "point" : "WCW103LP",
+        "name" : "WCW001PO轴承密封水进口压力"
+      },
+      {
+        "id" : 11,
+        "point" : "WCW111MD/L",
+        "name" : "泵轴承密封水流量"
+      },
+      {
+        "id" : 12,
+        "point" : "WCW101LP",
+        "name" : "WCW001PO轴承维修密封空气进口压力"
+      },
+      {
+        "id" : 13,
+        "point" : "WCW101SP",
+        "name" : "WCW001PO轴承维修密封空气进口压力开关"
+      },
+      {
+        "id" : 14,
+        "point" : "WCW105SP",
+        "name" : "WCW001PO轴承维修密封空气进口压力开关"
+      }
+    ]
+  },
+  "PRT0043" : {
+    "name" : "PRT0043_234 - 基坑里衬",
+    "point" : [
+      {
+        "id" : 1,
+        "point" : "WCW105SN",
+        "name" : "WCW001PO顶盖液位开关"
+      }
+    ]
+  },
+  "PRT0149" : {
+    "name" : "PRT0149_912 - 叶轮",
+    "point" : []
+  },
+  "PRT0103" : {
+    "name" : "PRT0103_683 - 下支撑环",
+    "point" : []
+  }
+}

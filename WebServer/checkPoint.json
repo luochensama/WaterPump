@@ -1,0 +1,211 @@
+[
+	{
+		"id" : "WCW101MV",
+		"name" : "WCW101MV_AVALUE",
+		"system" : "CW1"
+	},
+	{
+		"id" : "WCW103MV",
+		"system" : "CW1",
+		"name" : "WCW103MV_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"name" : "WCW111MT_AVALUE",
+		"id" : "WCW111MT"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW121MT",
+		"name" : "WCWF121MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW131MT",
+		"name" : "WCW131MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW113MT",
+		"name" : "WCW113MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW123MT",
+		"name" : "WCW123MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW133MT",
+		"name" : "WCW133MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW101MT",
+		"name" : "WCW101MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW103MT",
+		"name" : "WCW103MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW105MT",
+		"name" : "WCW105MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW107MT",
+		"name" : "WCW107MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW141MT",
+		"name" : "WCW141MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "WCW143MT",
+		"name" : "WCW143MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF107MV",
+		"name" : "3CRF107MV_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF109MV",
+		"name" : "3CRF109MV_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF115MT",
+		"name" : "3CRF115MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF117MT",
+		"name" : "3CRF117MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF125MT",
+		"name" : "3CRF125MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF145MT_1",
+		"name" : "3CRF145MT_1_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF145MT_2",
+		"name" : "3CRF145MT_2_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF147MT_1",
+		"name" : "3CRF147MT_1_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF147MT_2",
+		"name" : "3CRF147MT_2_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF151MT",
+		"name" : "3CRF151MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF153MT",
+		"name" : "3CRF153MT_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF101SN1",
+		"name" : "3CRF101SN1_LVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CRF109SD",
+		"name" : "3CRF109SD_LVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR001MP",
+		"name" : "3CGR001MP_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR003MP",
+		"name" : "3CGR003MP_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR001MD",
+		"name" : "3CGR001MD_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR059MN",
+		"name" : "3CGR059MN_AVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR059SN",
+		"name" : "3CGR059SN_LVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR039SP",
+		"name" : "3CGR039SP_LVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR055SP",
+		"name" : "3CGR055SP_LVALUE"
+
+	},
+	{
+		"system" : "CW1",
+		"id" : "3CGR045ST",
+		"name" : "3CGR045ST_LVALUE"
+
+	}
+]

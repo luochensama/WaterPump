@@ -1,0 +1,45 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Wizard - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ZHANGJ~1\AppData\Local\Temp\RSPED4D.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Wizard.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\zhang jin\Desktop\Test\Wizard\WizardView.cpp"
+]
+Creating command line "cl.exe @C:\Users\ZHANGJ~1\AppData\Local\Temp\RSPED4D.tmp" 
+Creating temporary file "C:\Users\ZHANGJ~1\AppData\Local\Temp\RSPED4E.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Wizard.pdb" /debug /machine:I386 /out:"Debug/Wizard.exe" /pdbtype:sept 
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Wizard.obj"
+".\Debug\WizardDoc.obj"
+".\Debug\WizardView.obj"
+".\Debug\Wizard.res"
+]
+Creating command line "link.exe @C:\Users\ZHANGJ~1\AppData\Local\Temp\RSPED4E.tmp"
+<h3>Output Window</h3>
+Compiling...
+WizardView.cpp
+C:\Users\zhang jin\Desktop\Test\Wizard\WizardView.cpp(19) : error C2259: 'CWizardView' : cannot instantiate abstract class due to following members:
+        c:\users\zhang jin\desktop\test\wizard\wizardview.h(13) : see declaration of 'CWizardView'
+C:\Users\zhang jin\Desktop\Test\Wizard\WizardView.cpp(19) : warning C4259: 'void __thiscall CView::OnDraw(class CDC *)' : pure virtual function was not defined
+        c:\program files (x86)\microsoft visual studio\vc98\mfc\include\afxwin.h(3594) : see declaration of 'OnDraw'
+C:\Users\zhang jin\Desktop\Test\Wizard\WizardView.cpp(19) : error C2259: 'CWizardView' : cannot instantiate abstract class due to following members:
+        c:\users\zhang jin\desktop\test\wizard\wizardview.h(13) : see declaration of 'CWizardView'
+C:\Users\zhang jin\Desktop\Test\Wizard\WizardView.cpp(19) : warning C4259: 'void __thiscall CView::OnDraw(class CDC *)' : pure virtual function was not defined
+        c:\program files (x86)\microsoft visual studio\vc98\mfc\include\afxwin.h(3594) : see declaration of 'OnDraw'
+Ö´ÐÐ cl.exe Ê±³ö´í.
+
+
+
+<h3>Results</h3>
+Wizard.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
